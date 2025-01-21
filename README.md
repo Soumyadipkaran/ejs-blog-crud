@@ -34,9 +34,9 @@ Ensure you have the following installed on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/express-blog-app.git
-   cd express-blog-app
-express-blog-app/
+   git clone https://github.com/Soumyadipkaran/ejs-blog-crud.git
+ 
+express-blog-app
 ├── public/            
 ├── views/       
 │   ├── edit.ejs         
